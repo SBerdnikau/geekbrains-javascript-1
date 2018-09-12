@@ -1,4 +1,5 @@
 
+console.log("1. С помощью цикла while вывести все простые числа в промежутке от 0 до 100");
 
 // Create array numbers 0 - 100 
 var numbers = [];
