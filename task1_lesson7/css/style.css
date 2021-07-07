@@ -1,0 +1,88 @@
+body {
+	display: flex;
+}
+
+#big {
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+.small {
+	width: 120px;
+	height: 120px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 36px;
+	border: 1px solid black;
+}
+
+#big-pic {
+    display: block;
+    margin: 0 auto; 
+	max-height: 90%;
+	max-width: 90%;
+}
+
+#small-pic-1 {
+    display: block;
+    margin: 0 auto; 
+	max-height: 90%;
+	max-width: 90%;
+}
+
+#small-pic-2 {
+    display: block;
+    margin: 0 auto; 
+	max-height: 90%;
+	max-width: 90%;
+}
+
+#small-pic-3 {
+    display: block;
+    margin: 0 auto; 
+	max-height: 90%;
+	max-width: 90%;
+}
+
+.goods {
+	min-width: 300px;
+	max-width: 300px;
+	margin: 50px 50px;
+	padding: 50px 50px;
+	border: 2px solid black;
+}
+
+.basket {
+	min-width: 300px;
+	max-width: 300px;
+	margin: 50px 50px;
+	padding: 50px 50px;
+	border: 2px solid black;
+	color: #fff;
+	background: #6600cc;
+}
+
+p {
+	font-size: 30px;
+}
+
+h6 {
+	font-size: 12px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+textarea {
+	width: 50px;
+	margin-right: 20px;
+}
+
+button {
+	width: 200px;
+	height: 60px;
+	font-size: 30px;
+}
